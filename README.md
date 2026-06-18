@@ -53,16 +53,18 @@ advanced-nlp-sentiment-analysis
 
 ---
 
-## 📊 Dataset
+## Dataset
 
-* Dataset: IMDB Movie Reviews Dataset
-* Total Reviews: 50,000
-* Classes:
+This project uses the IMDB Movie Reviews Dataset (50,000 reviews).
 
-  * Positive
-  * Negative
+The dataset file is not included in this repository due to size limitations.
 
----
+Download it from:
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+After downloading, place the file in:
+
+data/raw/IMDB Dataset.csv
 
 ## 🧠 Models Used
 
