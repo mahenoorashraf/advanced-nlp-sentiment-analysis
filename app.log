@@ -1,0 +1,6 @@
+2026-05-10 21:20:47,776 - INFO - Review: This movie was amazing | Predicted Sentiment: Positive | Confidence Score: 0.98
+2026-05-10 21:20:47,776 - INFO - Review: Worst movie ever | Predicted Sentiment: Negative | Confidence Score: 0.03
+2026-05-10 21:20:47,776 - ERROR - Error: Sample API error occurred
+2026-05-10 21:25:07,327 - INFO - Review: This movie was amazing | Predicted Sentiment: Positive | Confidence Score: 0.98
+2026-05-10 21:25:07,327 - INFO - Review: Worst movie ever | Predicted Sentiment: Negative | Confidence Score: 0.03
+2026-05-10 21:25:07,327 - ERROR - Error: Sample API error occurred
